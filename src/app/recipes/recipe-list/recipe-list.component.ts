@@ -14,12 +14,12 @@ export class RecipeListComponent {
     new Recipe(
       'a test recipe',
       'this is simply a test',
-      '../../../../assets/images/boeuf-bourguignon.webp'
+      'assets/images/boeuf-bourguignon.webp'
     ),
     new Recipe(
       'a test recipe',
       'this is simply a test',
-      '../../../../assets/images/boeuf-bourguignon.webp'
+      'assets/images/boeuf-bourguignon.webp'
     ),
   ];
 
